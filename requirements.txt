@@ -1,0 +1,14 @@
+# AI-related Libraries
+joblib==1.2.0          # For loading and saving pre-trained AI models
+numpy==1.23.5          # For numerical computations, required by AI models
+pillow==9.4.0          # Python Imaging Library for handling image files
+
+# Solana-related Libraries
+solana==1.11.1         # Solana Python client for interacting with the Solana blockchain
+
+# For machine learning models (compression, anomaly detection, and cost prediction)
+scikit-learn==1.1.2    # Machine learning library for PCA, Isolation Forest, and Linear Regression
+
+# For data handling and file operations
+pandas==1.5.2          # Data manipulation, can be used for handling data related to models
+
